@@ -1,4 +1,1 @@
-# teamproject
-pbl 2주차 magazin 만들기
-
-[미완성]
+미니프로젝트
